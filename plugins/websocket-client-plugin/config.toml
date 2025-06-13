@@ -1,0 +1,28 @@
+[plugin]
+disabled = false
+id = "deepseek-plugin"
+name = "DeepSeek 插件"
+version = "1.0.0"
+description = "DeepSeek 插件"
+author = "Debin"
+avatar = "https://cdn.example.com/plugins/example-plugin/avatar.png"
+
+homepage = "https://example.com"
+repository = "https://github.com/luodeb/deepseek-plugin"
+license = "MIT"
+keywords = ["chat", "ai", "tool"]
+min_client_version = "0.1.0"
+max_client_version = "1.0.0"
+platform = ["windows", "macos", "linux"]
+dependencies = []
+
+[download]
+[download.windows]
+checksum = "sha256:e84de4b305824e52d8b380cf521390dc23a38fcdef32cf0c6341ec302f125c0c"
+download_url = "https://github.com/luodeb/websocket-client-plugin/releases/download/v0.1.0/websocket-client-plugin-x86_64.dll"
+[download.macos]
+checksum = "sha256:7d1aad500d716e7fcd3865212cad585b0bc4879ee46b36360cacf3cbab45488e"
+download_url = "https://github.com/luodeb/websocket-client-plugin/releases/download/v0.1.0/websocket-client-plugin-universal.dylib"
+[download.linux]
+checksum = "sha256:66a5ef40e3488d5df4b1b681debdf1dfe8250929778e5593712656c15392fe6e"
+download_url = "https://github.com/luodeb/websocket-client-plugin/releases/download/v0.1.0/websocket-client-plugin-x86_64.so"

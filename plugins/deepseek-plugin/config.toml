@@ -18,11 +18,11 @@ dependencies = []
 
 [download]
 [download.windows]
-checksum = "sha256:91922ea0f8968004dfe684dc762b854b8769ee971e1d07ccf7bc37b050a44638"
-download_url = "https://github.com/luodeb/deepseek-plugin/releases/download/v0.1.1/deepseek-plugin-x86_64.dll"
+checksum = "sha256:fb2c19304a5676e640b72905279007de291366815a5b7094173d937a1173c614"
+download_url = "https://github.com/luodeb/deepseek-plugin/releases/download/v0.1.4/deepseek-plugin-x86_64.dll"
 [download.macos]
-checksum = "sha256:9031c6e25cd8715625c61c935651100188ea3a540e3df0b5a06df43d0f3e529c"
-download_url = "https://github.com/luodeb/deepseek-plugin/releases/download/v0.1.1/deepseek-plugin-universal.dylib"
+checksum = "sha256:5bdc0378312c7073c09430fe801131cb1b68ea3c3783bc360b01c7165736e622"
+download_url = "https://github.com/luodeb/deepseek-plugin/releases/download/v0.1.4/deepseek-plugin-universal.dylib"
 [download.linux]
-checksum = "sha256:5143b8ca0f488eb3f1fc54f4458e3472310c1f196bc2a0c8686ed1da217a1c40"
-download_url = "https://github.com/luodeb/deepseek-plugin/releases/download/v0.1.1/deepseek-plugin-x86_64.so"
+checksum = "sha256:e527706bcea61914fd0fad1376faf28c9bb282c18ed081f6bb10911315afb2d7"
+download_url = "https://github.com/luodeb/deepseek-plugin/releases/download/v0.1.4/deepseek-plugin-x86_64.so"

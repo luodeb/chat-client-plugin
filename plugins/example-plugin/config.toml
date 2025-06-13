@@ -18,11 +18,11 @@ dependencies = []
 
 [download]
 [download.windows]
-checksum = "sha256:b6e0cf6ecbd675d70f307c7355487e6b42fe7e976d67e8106d964c8fc5268280"
-download_url = "https://github.com/luodeb/chat-client/releases/download/v0.1.2/example-plugin-x86_64.dll"
+checksum = "sha256:f7fc8db90fdf3345b563d2a2f399ed3b025ea83f4886a94b64a215ecf3762cd9"
+download_url = "https://github.com/luodeb/chat-client/releases/download/v0.1.5/example-plugin-x86_64.dll"
 [download.macos]
-checksum = "sha256:a38296a39a21e5089ede233446a583b1ac8e726c63a778fbe55af3e25046150e"
-download_url = "https://github.com/luodeb/chat-client/releases/download/v0.1.2/example-plugin-universal.dylib"
+checksum = "sha256:09bd46c9dbd33c751faea60abd14775785233031eb880b3a5d3decc15fbcb32e"
+download_url = "https://github.com/luodeb/chat-client/releases/download/v0.1.5/example-plugin-universal.dylib"
 [download.linux]
-checksum = "sha256:2319831ab4229580ce0b9a0191aeed66fd5632c7c0308c56b8155266b7768c6c"
-download_url = "https://github.com/luodeb/chat-client/releases/download/v0.1.2/example-plugin-x86_64.so"
+checksum = "sha256:8a10378aa23ecb6f313d417a49e92b02ea2d8ede65b68a6deac1eda3723598e1"
+download_url = "https://github.com/luodeb/chat-client/releases/download/v0.1.5/example-plugin-x86_64.so"
