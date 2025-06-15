@@ -1,0 +1,28 @@
+[plugin]
+disabled = false
+id = "simple-serial-plugin"
+name = "Simple Serial 插件"
+version = "0.1.0"
+description = "Simple Serial 插件"
+author = "Debin"
+avatar = "https://cdn.example.com/plugins/example-plugin/avatar.png"
+
+homepage = "https://example.com"
+repository = "https://github.com/luodeb/simple-serial-plugin"
+license = "MIT"
+keywords = ["chat", "ai", "tool"]
+min_client_version = "0.1.0"
+max_client_version = "1.0.0"
+platform = ["windows", "macos", "linux"]
+dependencies = []
+
+[download]
+[download.windows]
+checksum = "sha256:51ae9cf35d8052aca68896466c3cce5c4b3e7e4f181f0a556de2b12abbddfdf2"
+download_url = "https://github.com/luodeb/simple-serial-plugin/releases/download/v0.1.0/simple-serial-plugin-x86_64.dll"
+[download.macos]
+checksum = "sha256:c7c2897a2e2e70c89be9d5a1166efb9aca59a6ca74088c4ea3bb9fc2b6a758ac"
+download_url = "https://github.com/luodeb/simple-serial-plugin/releases/download/v0.1.0/simple-serial-plugin-universal.dylib"
+[download.linux]
+checksum = "sha256:3c78b26389613309f54114282b47e36a947efee72655826ba1249ea3f059cf6a"
+download_url = "https://github.com/luodeb/simple-serial-plugin/releases/download/v0.1.0/simple-serial-plugin-x86_64.so"
